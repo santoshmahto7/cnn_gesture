@@ -2,7 +2,6 @@
 This project involves building a 3D Neural Network to correctly recognize hand gestures by a user to control a smart TV.
 
 # Problem Statement:
-This project involves building a 3D Convolutional Neural Network (CNN) to correctly recognize hand gestures by a user to control a smart TV.  
 The objective of this projects is to build a hand gesture recognition model that can be hosted on a camera installed in a smart TV that can understand 5 gestures.   
 The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:  
 -	Thumbs up:  Increase the volume  

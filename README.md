@@ -15,13 +15,13 @@ The gestures are continuously monitored by the webcam mounted on the TV. Each ge
 The training data consists of a few hundred videos categorised into one of the five classes. Each video (typically 2-3 seconds long) is divided into a sequence of 30 frames(images). These videos have been recorded by various people performing one of the five gestures in front of a webcam - similar to what the smart TV will use.  
 The videos have two types of dimensions - either 360x360 or 120x160 (depending on the webcam used to record the videos).  
 
-## Data Source : https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
+### Data Source : https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
 
 ## References:
 
-1.	Jeff Knup's blog: 'Yield' and Generator Functions  
+1.	Jeff Knup's blog: 'Yield' and Generator Functions  : https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/  
 
-2.	Corey Schafer (YouTube video): Generator functions  
+2.	Corey Schafer (YouTube video): Generator functions  : https://www.youtube.com/watch?v=bD05uGo_sVI 
 
 3.	https://keras.io/preprocessing/image/  
 
